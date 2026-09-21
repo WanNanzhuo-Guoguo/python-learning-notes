@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![Learning](https://img.shields.io/badge/Status-Learning-brightgreen)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WanNanzhuo-Guoguo/python-learning-notes)
-![GitHub repo size](https://img.shields.io/github/repo-size/WanNanzhuo-Guoguo/python-learning-notes)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/WanNanzhuo-Guoguo/python-learning-notes)
 
 </div>
 
