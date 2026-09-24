@@ -44,7 +44,7 @@ Learn → Code → Understand → Summarize → Commit → Repeat
 | 04 | [列表List](./04-列表List/) | ✅ |
 | 05 | [元组tuple](./05-元组tuple/) | ✅ |
 | 06 | [条件判断](./06-条件判断/) | ✅ |
-| 07 | [模式匹配 pattern-matching](./07-模式匹配 pattern-matching/) | ✅ |
+| 07 | [模式匹配pattern-matching](./07-模式匹配pattern-matching/) | ✅ |
 | ... | 持续学习中 | 🚧 |
 <!-- ROADMAP_END -->
 
@@ -82,7 +82,7 @@ python-learning-notes/
 │   ├── if-else.py
 │   └── note.md
 │
-├── 07-模式匹配 pattern-matching/
+├── 07-模式匹配pattern-matching/
 │   ├── note.md
 │   └── pattern-matching.py
 │
