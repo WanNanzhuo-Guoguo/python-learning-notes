@@ -35,12 +35,15 @@ Learn → Code → Understand → Summarize → Commit → Repeat
 
 学习内容按照知识点逐步推进。
 
+<!-- ROADMAP_START -->
 | Chapter | Topic | Status |
 | :---: | --- | :---: |
-| 01 | Hello World | ✅ |
-| 02 | 数据类型与变量 | ✅ |
-| 03 | 字符串与编码 | ✅ |
+| 01 | [hello-world](./01-hello-world/) | ✅ |
+| 02 | [数据类型与变量](./02-数据类型与变量/) | ✅ |
+| 03 | [字符串与编码](./03-字符串与编码/) | ✅ |
+| 04 | [列表List](./04-列表List/) | ✅ |
 | ... | 持续学习中 | 🚧 |
+<!-- ROADMAP_END -->
 
 > 🚧 Roadmap 会随着学习进度持续更新。
 
@@ -48,25 +51,30 @@ Learn → Code → Understand → Summarize → Commit → Repeat
 
 ## 📂 Repository Structure
 
+<!-- STRUCTURE_START -->
 ```text
 python-learning-notes/
 │
 ├── 01-hello-world/
-│   ├── README.md
-│   └── hello-world.py
+│   ├── hello-world.py
+│   └── note.md
 │
 ├── 02-数据类型与变量/
-│   ├── README.md
+│   ├── note.md
 │   └── values.py
 │
 ├── 03-字符串与编码/
-│   ├── README.md
+│   ├── note.md
 │   └── strings.py
 │
-├── ...
+├── 04-列表List/
+│   ├── lists.py
+│   └── note.md
 │
+├── update_readme.py
 └── README.md
 ```
+<!-- STRUCTURE_END -->
 
 每个学习目录主要包含：
 
