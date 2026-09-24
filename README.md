@@ -42,6 +42,9 @@ Learn → Code → Understand → Summarize → Commit → Repeat
 | 02 | [数据类型与变量](./02-数据类型与变量/) | ✅ |
 | 03 | [字符串与编码](./03-字符串与编码/) | ✅ |
 | 04 | [列表List](./04-列表List/) | ✅ |
+| 05 | [元组tuple](./05-元组tuple/) | ✅ |
+| 06 | [条件判断](./06-条件判断/) | ✅ |
+| 07 | [模式匹配 pattern-matching](./07-模式匹配 pattern-matching/) | ✅ |
 | ... | 持续学习中 | 🚧 |
 <!-- ROADMAP_END -->
 
@@ -70,6 +73,18 @@ python-learning-notes/
 ├── 04-列表List/
 │   ├── lists.py
 │   └── note.md
+│
+├── 05-元组tuple/
+│   ├── note.md
+│   └── tuples.py
+│
+├── 06-条件判断/
+│   ├── if-else.py
+│   └── note.md
+│
+├── 07-模式匹配 pattern-matching/
+│   ├── note.md
+│   └── pattern-matching.py
 │
 ├── update_readme.py
 └── README.md
