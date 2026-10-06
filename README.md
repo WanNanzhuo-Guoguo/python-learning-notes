@@ -45,6 +45,8 @@ Learn → Code → Understand → Summarize → Commit → Repeat
 | 05 | [元组tuple](./05-元组tuple/) | ✅ |
 | 06 | [条件判断](./06-条件判断/) | ✅ |
 | 07 | [模式匹配pattern-matching](./07-模式匹配pattern-matching/) | ✅ |
+| 08 | [循环loop](./08-循环loop/) | ✅ |
+| 09 | [字典dict](./09-字典dict/) | ✅ |
 | ... | 持续学习中 | 🚧 |
 <!-- ROADMAP_END -->
 
@@ -85,6 +87,14 @@ python-learning-notes/
 ├── 07-模式匹配pattern-matching/
 │   ├── note.md
 │   └── pattern-matching.py
+│
+├── 08-循环loop/
+│   ├── loops.py
+│   └── note.md
+│
+├── 09-字典dict/
+│   ├── dicts.py
+│   └── note.md
 │
 ├── update_readme.py
 └── README.md
